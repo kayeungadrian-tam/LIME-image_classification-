@@ -9,6 +9,7 @@ The idea stems from a [2016 paper](https://arxiv.org/pdf/1602.04938.pdf) in whic
 
 ## Formulation
 LIME rests upon following equation whcih measures how unfaithful model $g$ approximates the model-to-be-explained $f$ in its vicinity $\pi_x$.
+
 ![Formula](https://c3.ai/wp-content/uploads/2020/10/Lime2-500x81.png)
 
 ## Objective
